@@ -14,7 +14,9 @@ public class Countdigit {
 			
 			
 		}
+		System.out.println("Result after operation);
 		System.out.println("Sum of digit is"+count);
+		
 	}
 	public static void main(String[] args) {
 		
